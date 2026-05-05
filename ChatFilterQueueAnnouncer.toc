@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: |cff00bbffChatFilterQueueAnnouncer |cff80808020260505|r
+## Author: Spartelfant
+## Notes: Filters "|cffffff00Queue Announcer|r" messages.
+## Version: 20260505
+ChatFilterQueueAnnouncer.lua
